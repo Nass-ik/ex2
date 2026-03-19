@@ -1,3 +1,1 @@
-# ex2
-Je modifie mon fichier en local !
-J'écris depuis la branche main.
+27 27 27 10 12 14 j'ai la recette 
